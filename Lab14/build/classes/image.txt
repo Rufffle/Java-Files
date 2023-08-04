@@ -1,0 +1,5 @@
+ID: 113098	mark: 20.0
+ID: 115089	mark: 15.0
+ID: 345678	mark: 12.0
+ID: 234566	mark: 18.0
+Highest mark obtained by ID: 113098
